@@ -1,5 +1,5 @@
 {
-  "host": "https://atomic-monkey-server.evomedia.now.sh/",
+  "host": "https://atomic-monkey-server.herokuapp.com/",
   "port": "${process.env.PORT || 1337}",
   "production": true,
   "proxy": {
